@@ -1,0 +1,5 @@
+frameworkproject\stepdefinitions\ApiStepDefinitions.class
+frameworkproject\stepdefinitions\BrowserStepDefinitions.class
+frameworkproject\hooks\Hooks.class
+frameworkproject\stepdefinitions\AdditionStepDefinitions.class
+frameworkproject\RunTest.class
